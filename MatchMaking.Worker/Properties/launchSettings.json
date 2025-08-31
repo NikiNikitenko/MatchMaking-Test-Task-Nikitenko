@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MatchMaking.Worker": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
